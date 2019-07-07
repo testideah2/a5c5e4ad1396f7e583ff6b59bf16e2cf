@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "by.6grodno.schools"
     versionCode = "10"
-    version     = "1.0.0">
+    version     = "1.1.0">
 
 <name>ТЕСТ. 6grodno.schools.by</name>
 
@@ -34,7 +34,7 @@
 <preference name='WindowsToastCapable' value='true' />
 
 <preference name="SplashMaintainAspectRatio" value="true" />
-<preference name="SplashScreenSpinnerColor" value="#007BFF" />
+<preference name="SplashScreenSpinnerColor" value="#AFCBE9" />
 
 
 <platform name="android">
